@@ -76,51 +76,45 @@ Bot sends reply automatically
 ### 1️⃣ Clone the repo
 ```bash
 git clone https://github.com/your-username/AI-Chat-AutoResponder.git
-2️⃣ Install dependencies
+```
+### 2️⃣ Install dependencies
+```bash
 pip install pyautogui pyperclip keyboard openai
-3️⃣ Set API Key
-
+```
+### 3️⃣ Set API Key
 Windows (PowerShell):
-
 $env:OPENAI_API_KEY="your_api_key_here"
-
 Linux/Mac:
-
 export OPENAI_API_KEY="your_api_key_here"
-▶️ Usage
-python main.py
 
+## ▶️ Usage
+python main.py
 👉 Switch to your chat window within 3 seconds.
 
 ⚠️ Important Notes
 Coordinates are screen-dependent → adjust for your device
 Use carefully (automation may interfere with normal usage)
 Works best with web-based chat interfaces
+
 🚧 Future Improvements
 🎯 Auto-detect chat window (no fixed coordinates)
 🖥️ GUI dashboard
 🧠 Context memory (long conversations)
 🔐 Better sender identification
 📱 Multi-platform support
+
 🧠 Learning Outcomes
 Desktop automation
 API integration
 Real-time system design
 Human-like AI interaction
-👨‍💻 Author
-
-Anirban Kundu
-B.Tech CSE | Aspiring AI Engineer 🚀
 
 🌟 Support
-
 If you like this project:
-
 ⭐ Star the repo
 🍴 Fork it
 📢 Share it
 
 ⚠️ Disclaimer
-
 This project is for educational purposes only.
 Use responsibly and avoid violating any platform policies.
