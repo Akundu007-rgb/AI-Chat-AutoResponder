@@ -91,30 +91,30 @@ export OPENAI_API_KEY="your_api_key_here"
 python main.py
 👉 Switch to your chat window within 3 seconds.
 
-⚠️ Important Notes
+## ⚠️ Important Notes
 Coordinates are screen-dependent → adjust for your device
 Use carefully (automation may interfere with normal usage)
 Works best with web-based chat interfaces
 
-🚧 Future Improvements
+## 🚧 Future Improvements
 🎯 Auto-detect chat window (no fixed coordinates)
 🖥️ GUI dashboard
 🧠 Context memory (long conversations)
 🔐 Better sender identification
 📱 Multi-platform support
 
-🧠 Learning Outcomes
+## 🧠 Learning Outcomes
 Desktop automation
 API integration
 Real-time system design
 Human-like AI interaction
 
-🌟 Support
+## 🌟 Support
 If you like this project:
 ⭐ Star the repo
 🍴 Fork it
 📢 Share it
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 This project is for educational purposes only.
 Use responsibly and avoid violating any platform policies.
