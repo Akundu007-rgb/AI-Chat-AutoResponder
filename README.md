@@ -83,38 +83,43 @@ pip install pyautogui pyperclip keyboard openai
 ```
 ### 3️⃣ Set API Key
 Windows (PowerShell):
+```powershell
 $env:OPENAI_API_KEY="your_api_key_here"
+```
+```bash
 Linux/Mac:
 export OPENAI_API_KEY="your_api_key_here"
-
+```
 ## ▶️ Usage
+```bash
 python main.py
-👉 Switch to your chat window within 3 seconds.
+```
+👉 Switch to your chat window within **3 seconds**.
 
 ## ⚠️ Important Notes
-Coordinates are screen-dependent → adjust for your device
-Use carefully (automation may interfere with normal usage)
-Works best with web-based chat interfaces
+- Coordinates are **screen-dependent** → adjust for your device
+- Use carefully (automation may interfere with normal usage)
+- Works best with web-based chat interfaces
 
 ## 🚧 Future Improvements
-🎯 Auto-detect chat window (no fixed coordinates)
-🖥️ GUI dashboard
-🧠 Context memory (long conversations)
-🔐 Better sender identification
-📱 Multi-platform support
+- 🎯 Auto-detect chat window (no fixed coordinates)
+- 🖥️ GUI dashboard
+- 🧠 Context memory (long conversations)
+- 🔐 Better sender identification
+- 📱 Multi-platform support
 
 ## 🧠 Learning Outcomes
-Desktop automation
-API integration
-Real-time system design
-Human-like AI interaction
+- Desktop automation
+- API integration
+- Real-time system design
+- Human-like AI interaction
 
 ## 🌟 Support
-If you like this project:
-⭐ Star the repo
-🍴 Fork it
-📢 Share it
+- If you like this project:
+- ⭐ Star the repo
+- 🍴 Fork it
+- 📢 Share it
 
 ## ⚠️ Disclaimer
-This project is for educational purposes only.
-Use responsibly and avoid violating any platform policies.
+- This project is for educational purposes only.
+- Use responsibly and avoid violating any platform policies.
